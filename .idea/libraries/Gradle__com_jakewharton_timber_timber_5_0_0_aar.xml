@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="Gradle: com.jakewharton.timber:timber:5.0.0@aar">
+    <CLASSES>
+      <root url="jar://$APPLICATION_HOME_DIR$/jre/caches/transforms-3/66b3f16c4e9f8bac61a6bdfd9009b824/transformed/jetified-timber-5.0.0/jars/classes.jar!/" />
+      <root url="file://$APPLICATION_HOME_DIR$/jre/caches/transforms-3/66b3f16c4e9f8bac61a6bdfd9009b824/transformed/jetified-timber-5.0.0/res" />
+      <root url="file://$APPLICATION_HOME_DIR$/jre/caches/transforms-3/66b3f16c4e9f8bac61a6bdfd9009b824/transformed/jetified-timber-5.0.0/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$APPLICATION_HOME_DIR$/jre/caches/modules-2/files-2.1/com.jakewharton.timber/timber/5.0.0/689ab3363027c46c9cb7ef0cc3232934cac1ff26/timber-5.0.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$APPLICATION_HOME_DIR$/jre/caches/modules-2/files-2.1/com.jakewharton.timber/timber/5.0.0/785a16a88adb7f62e8b68617e4abaef48955dd3/timber-5.0.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

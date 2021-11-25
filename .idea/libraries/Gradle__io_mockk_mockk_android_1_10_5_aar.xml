@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="Gradle: io.mockk:mockk-android:1.10.5@aar">
+    <CLASSES>
+      <root url="jar://$APPLICATION_HOME_DIR$/jre/caches/transforms-3/560288b7873d427b60626f7dc03add99/transformed/jetified-mockk-android-1.10.5/jars/classes.jar!/" />
+      <root url="file://$APPLICATION_HOME_DIR$/jre/caches/transforms-3/560288b7873d427b60626f7dc03add99/transformed/jetified-mockk-android-1.10.5/res" />
+      <root url="file://$APPLICATION_HOME_DIR$/jre/caches/transforms-3/560288b7873d427b60626f7dc03add99/transformed/jetified-mockk-android-1.10.5/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$APPLICATION_HOME_DIR$/jre/caches/modules-2/files-2.1/io.mockk/mockk-android/1.10.5/18e3f2c4bd91690391a93d6d886c8bd27f2cad1b/mockk-android-1.10.5-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$APPLICATION_HOME_DIR$/jre/caches/modules-2/files-2.1/io.mockk/mockk-android/1.10.5/bd0f731d6802b58baeb06fa41a3950bab767c894/mockk-android-1.10.5-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
